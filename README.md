@@ -1,9 +1,9 @@
 
-• 🌱 I’m currently learning HTML, CSS e JS
-• computer engineering My name is Eliseu Magalhães
-• I'm 22 years old
-• Student of computer engineering
-• Brazilian
+• 🌱 I’m currently learning HTML, CSS e JS <br />
+• My name is Eliseu Magalhães <br />
+• I'm 22 years old <br />
+• Student of computer engineering <br />
+• Brazilian <br />
 
 <div align="center">
   <a href="https://github.com/eliseuw">
