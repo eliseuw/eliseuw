@@ -11,7 +11,7 @@
   <img align="center" alt="eli-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="eli-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="eli-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="eli-pic" height="250" style="border-radius:50px;" src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?t=st=1653182389~exp=1653182989~hmac=9b73afa18ef68b1be675f5e926ff740e7f29db85f4b2bbae78df8006a30dd236&w=1060](https://www.freepik.com/free-vector/single-page-application-abstract-concept-illustration-spa-web-page-web-development-trend-app-inside-browser-dynamically-rewriting-page-responsive-website-creation_10782838.htm)" alt="Imagem de um notebook">
+  <img align="right" alt="eli-pic" height="250" style="border-radius:50px;" src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?t=st=1653182389~exp=1653182989~hmac=9b73afa18ef68b1be675f5e926ff740e7f29db85f4b2bbae78df8006a30dd236&w=1060](https://www.freepik.com/free-vector/single-page-application-abstract-concept-illustration-spa-web-page-web-development-trend-app-inside-browser-dynamically-rewriting-page-responsive-website-creation_10782838.html" alt="Imagem de um notebook">
 </div>
   
     
