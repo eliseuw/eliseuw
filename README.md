@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on Front-end
+
 - 🌱 I’m currently learning HTML, CSS e JS
 
 <div align="center">
@@ -11,7 +11,7 @@
   <img align="center" alt="eli-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="eli-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="eli-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="eli-pic" height="250" style="border-radius:50px;" src="https://s1.zerochan.net/Khamsin.Nbh%27w.600.1406472.jpg">
+  <img align="right" alt="eli-pic" height="250" style="border-radius:50px;" src="">
 </div>
   
     
